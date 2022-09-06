@@ -1,0 +1,9 @@
+class main{
+    public static void main(String[] args){
+        boolean x = true;
+        x = false
+
+        System.out.println(x);
+
+    }
+}
